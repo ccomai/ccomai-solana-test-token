@@ -1,16 +1,17 @@
 {
   "name": "CCOMAI Token",
-  "symbol": "CMIST",
-  "description": "A test token deployed on Solana Devnet for development purposes.",
+  "symbol": "CMITST",
+  "description": "A fungible token on the Solana blockchain with various real-world applications.",
   "image": "https://raw.githubusercontent.com/ccomai/ccomai-solana-test-token/main/ccomai_token_logo.png",
-  "attributes": [],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/ccomai/ccomai-solana-test-token/main/ccomai_token_logo.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
-  }
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "Fungible"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ],
+  "seller_fee_basis_points": 0
 }
