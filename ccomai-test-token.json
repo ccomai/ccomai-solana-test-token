@@ -2,12 +2,12 @@
   "name": "CCOMAITestToken",
   "symbol": "CMITST",
   "description": "A test token deployed on Solana Devnet for development purposes.",
-  "image": "https://raw.githubusercontent.com/ccomai/ccomai-solana-test-token/main/logo.png",
+  "image": "https://raw.githubusercontent.com/ccomai/ccomai-solana-test-token/main/ccomai_token_logo.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/ccomai/ccomai-solana-test-token/main/logo.png",
+        "uri": "https://raw.githubusercontent.com/ccomai/ccomai-solana-test-token/main/ccomai_token_logo.png",
         "type": "image/png"
       }
     ],
