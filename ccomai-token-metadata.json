@@ -1,0 +1,7 @@
+{
+  "name": "CCOMAI Test Token",
+  "symbol": "CMITST",
+  "uri": "https://raw.githubusercontent.com/ccomai/ccomai-solana-test-token/main/ccomai-test-token.json",
+  "seller_fee_basis_points": 0,
+  "creators": null
+}

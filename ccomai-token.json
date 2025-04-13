@@ -1,6 +1,6 @@
 {
-  "name": "CCOMAITestToken",
-  "symbol": "CMITST",
+  "name": "CCOMAI Token",
+  "symbol": "CMIST",
   "description": "A test token deployed on Solana Devnet for development purposes.",
   "image": "https://raw.githubusercontent.com/ccomai/ccomai-solana-test-token/main/ccomai_token_logo.png",
   "attributes": [],
